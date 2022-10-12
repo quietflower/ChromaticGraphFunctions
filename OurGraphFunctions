@@ -1,0 +1,4 @@
+print("IT WORKED!!!")
+
+def function(n):
+  return 3*n+10
